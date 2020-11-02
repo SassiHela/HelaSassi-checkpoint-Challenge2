@@ -1,0 +1,9 @@
+.comment-link:hover {
+    color: rgb(0, 38, 255);
+}
+.comment-link {
+  position: absolute;
+  bottom: 7px;
+  color: rgb(0, 38, 255);
+  text-decoration: underline;
+}
